@@ -1,5 +1,4 @@
-// Write any using statements here
-
+namespace Meta_Scratch.Photography;
 class Solution {
   
   public long getArtisticPhotographCount(int N, string C, int X, int Y) {
